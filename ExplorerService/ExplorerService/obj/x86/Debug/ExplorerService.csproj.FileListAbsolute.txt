@@ -1,0 +1,5 @@
+D:\My Work\C#\dotNET\ExplorerService\ExplorerService\bin\Debug\ExplorerService.exe
+D:\My Work\C#\dotNET\ExplorerService\ExplorerService\bin\Debug\ExplorerService.pdb
+D:\My Work\C#\dotNET\ExplorerService\ExplorerService\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\My Work\C#\dotNET\ExplorerService\ExplorerService\obj\x86\Debug\ExplorerService.exe
+D:\My Work\C#\dotNET\ExplorerService\ExplorerService\obj\x86\Debug\ExplorerService.pdb
