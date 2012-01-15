@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="a395f35f-c6d7-4258-b279-5d8515ad9e4f" name="bkt@BKT-NB 2012-01-15 14:49:33" runUser="bkt-nb\bkt" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="4f23f849-b9af-4c16-b4b3-bde227567a61">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="bkt_BKT-NB 2012-01-15 14_49_33">
+      <DeploymentItem filename="C:\Users\bkt\Desktop\explorer\ExplorerService\DBLibrary\bin\Debug\DBLibrary.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2012-01-15T14:49:33.0671566+02:00" queuing="2012-01-15T14:49:33.1901636+02:00" start="2012-01-15T14:49:33.2471669+02:00" finish="2012-01-15T14:49:49.5757064+02:00" />
+  <ResultSummary outcome="Failed">
+    <Counters total="1" executed="1" error="0" failed="1" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="main" storage="c:\users\bkt\desktop\explorer\explorerservice\explorertest\bin\debug\explorertest.dll" id="3066d2e1-b68e-bd36-c922-ee8a37edd035">
+      <Execution id="bd92c56c-ba40-4774-870e-01433cb62a88" />
+      <TestMethod codeBase="C:/Users/bkt/Desktop/explorer/ExplorerService/ExplorerTest/bin/Debug/ExplorerTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ExplorerTest.UnitTest1, ExplorerTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="main" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="3066d2e1-b68e-bd36-c922-ee8a37edd035" executionId="bd92c56c-ba40-4774-870e-01433cb62a88" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="bd92c56c-ba40-4774-870e-01433cb62a88" testId="3066d2e1-b68e-bd36-c922-ee8a37edd035" testName="main" computerName="BKT-NB" duration="00:00:15.1553460" startTime="2012-01-15T14:49:33.4021758+02:00" endTime="2012-01-15T14:49:49.4566996+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="bd92c56c-ba40-4774-870e-01433cb62a88">
+      <Output>
+        <ErrorInfo>
+          <Message>Test method ExplorerTest.UnitTest1.main threw exception: 
+System.NullReferenceException: Object reference not set to an instance of an object.</Message>
+          <StackTrace>    at DBLibrary.DBWriter.CreateSqlConnection() in C:\Users\bkt\Desktop\explorer\ExplorerService\DBLibrary\DBWriter.cs:line 47
+   at DBLibrary.DBWriter.Initialize() in C:\Users\bkt\Desktop\explorer\ExplorerService\DBLibrary\DBWriter.cs:line 19
+   at ExplorerTest.UnitTest1.main() in C:\Users\bkt\Desktop\explorer\ExplorerService\ExplorerTest\UnitTest1.cs:line 15
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>

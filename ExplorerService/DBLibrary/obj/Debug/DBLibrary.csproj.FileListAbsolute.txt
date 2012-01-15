@@ -1,0 +1,7 @@
+C:\Users\bkt\Desktop\explorer\ExplorerService\DBLibrary\bin\Debug\explorer_db.sdf
+C:\Users\bkt\Desktop\explorer\ExplorerService\DBLibrary\bin\Debug\DBLibrary.dll.config
+C:\Users\bkt\Desktop\explorer\ExplorerService\DBLibrary\bin\Debug\DBLibrary.dll
+C:\Users\bkt\Desktop\explorer\ExplorerService\DBLibrary\bin\Debug\DBLibrary.pdb
+C:\Users\bkt\Desktop\explorer\ExplorerService\DBLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\bkt\Desktop\explorer\ExplorerService\DBLibrary\obj\Debug\DBLibrary.dll
+C:\Users\bkt\Desktop\explorer\ExplorerService\DBLibrary\obj\Debug\DBLibrary.pdb
