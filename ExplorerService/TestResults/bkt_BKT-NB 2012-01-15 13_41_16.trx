@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="f2351663-8df1-4ca0-a2bf-e91d90173fb8" name="bkt@BKT-NB 2012-01-15 13:41:16" runUser="bkt-nb\bkt" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="4f23f849-b9af-4c16-b4b3-bde227567a61">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="bkt_BKT-NB 2012-01-15 13_41_16">
+      <DeploymentItem filename="C:\Users\bkt\Desktop\explorer\ExplorerService\DBLibrary\bin\Debug\DBLibrary.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2012-01-15T13:41:16.6626025+02:00" queuing="2012-01-15T13:41:17.0726031+02:00" start="2012-01-15T13:41:17.1426032+02:00" finish="2012-01-15T13:41:34.3380784+02:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="1" executed="1" passed="1" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="main" storage="c:\users\bkt\desktop\explorer\explorerservice\explorertest\bin\debug\explorertest.dll" id="3066d2e1-b68e-bd36-c922-ee8a37edd035">
+      <Execution id="dfa3f09c-fb91-4dd8-b2d1-1dc301b75e8a" />
+      <TestMethod codeBase="C:/Users/bkt/Desktop/explorer/ExplorerService/ExplorerTest/bin/Debug/ExplorerTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ExplorerTest.UnitTest1, ExplorerTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="main" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="3066d2e1-b68e-bd36-c922-ee8a37edd035" executionId="dfa3f09c-fb91-4dd8-b2d1-1dc301b75e8a" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="dfa3f09c-fb91-4dd8-b2d1-1dc301b75e8a" testId="3066d2e1-b68e-bd36-c922-ee8a37edd035" testName="main" computerName="BKT-NB" duration="00:00:16.1976765" startTime="2012-01-15T13:41:17.1626032+02:00" endTime="2012-01-15T13:41:34.2660743+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="dfa3f09c-fb91-4dd8-b2d1-1dc301b75e8a">
+    </UnitTestResult>
+  </Results>
+</TestRun>

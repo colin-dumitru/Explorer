@@ -1,0 +1,13 @@
+D:\My Work\C#\dotNET\ExplorerService\ExplorerService\bin\Debug\ExplorerService.exe
+D:\My Work\C#\dotNET\ExplorerService\ExplorerService\bin\Debug\ExplorerService.pdb
+D:\My Work\C#\dotNET\ExplorerService\ExplorerService\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\My Work\C#\dotNET\ExplorerService\ExplorerService\obj\x86\Debug\ExplorerService.exe
+D:\My Work\C#\dotNET\ExplorerService\ExplorerService\obj\x86\Debug\ExplorerService.pdb
+C:\Users\bkt\Desktop\explorer\ExplorerService\ExplorerService\obj\x86\Debug\ExplorerService.exe
+C:\Users\bkt\Desktop\explorer\ExplorerService\ExplorerService\obj\x86\Debug\ExplorerService.pdb
+C:\Users\bkt\Desktop\explorer\ExplorerService\ExplorerService\bin\Debug\explorer_db.sdf
+C:\Users\bkt\Desktop\explorer\ExplorerService\ExplorerService\bin\Debug\ExplorerService.exe
+C:\Users\bkt\Desktop\explorer\ExplorerService\ExplorerService\bin\Debug\ExplorerService.pdb
+C:\Users\bkt\Desktop\explorer\ExplorerService\ExplorerService\bin\Debug\DBLibrary.dll
+C:\Users\bkt\Desktop\explorer\ExplorerService\ExplorerService\bin\Debug\DBLibrary.pdb
+C:\Users\bkt\Desktop\explorer\ExplorerService\ExplorerService\obj\x86\Debug\ResolveAssemblyReference.cache

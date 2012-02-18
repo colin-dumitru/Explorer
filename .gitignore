@@ -1,0 +1,6 @@
+*.sln
+*.suo
+*.dll
+*.pdb
+*.cache
+*.exe

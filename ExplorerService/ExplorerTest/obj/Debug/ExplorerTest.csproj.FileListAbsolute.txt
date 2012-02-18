@@ -1,0 +1,8 @@
+C:\Users\bkt\Desktop\explorer\ExplorerService\ExplorerTest\bin\Debug\explorer_db.sdf
+C:\Users\bkt\Desktop\explorer\ExplorerService\ExplorerTest\bin\Debug\ExplorerTest.dll
+C:\Users\bkt\Desktop\explorer\ExplorerService\ExplorerTest\bin\Debug\ExplorerTest.pdb
+C:\Users\bkt\Desktop\explorer\ExplorerService\ExplorerTest\bin\Debug\DBLibrary.dll
+C:\Users\bkt\Desktop\explorer\ExplorerService\ExplorerTest\bin\Debug\DBLibrary.pdb
+C:\Users\bkt\Desktop\explorer\ExplorerService\ExplorerTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\bkt\Desktop\explorer\ExplorerService\ExplorerTest\obj\Debug\ExplorerTest.dll
+C:\Users\bkt\Desktop\explorer\ExplorerService\ExplorerTest\obj\Debug\ExplorerTest.pdb
